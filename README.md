@@ -20,7 +20,7 @@ Retail Billing Software is a full-stack Java web application developed during an
 ## 🛠️ Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap
-- **Backend:** Java, Spring Boot, Servlets, Hibernate, JDBC
+- **Backend:** Java, Spring Boot
 - **Database:** MySQL
 - **API Integration:** Razorpay for UPI payments
 - **Tools:** IntelliJ IDEA, Eclipse, Postman, GitHub
