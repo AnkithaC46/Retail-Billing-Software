@@ -24,7 +24,10 @@ Retail Billing Software is a full-stack Java web application developed during an
 - **Database:** MySQL
 - **API Integration:** Razorpay for UPI payments
 - **Tools:** IntelliJ IDEA, VS Code , Postman
-- 
+
+## Project Screenshots
+
+
 ### Login Page
 <img src="./Project Screenshots/Screenshot 2025-08-22 204218.png" width="500">
 
